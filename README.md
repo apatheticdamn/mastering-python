@@ -16,3 +16,6 @@ To run any code, make sure you have Python installed on your machine. You can ru
 
 ```bash
 python filename.py
+```
+
+Happy coding!
